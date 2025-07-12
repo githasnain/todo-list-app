@@ -3,7 +3,7 @@
 A simple responsive To-Do List app built using HTML, CSS, and JavaScript. It allows users to add, mark, and delete tasks. Tasks are saved using `localStorage`.
 
 ## 🔗 Live Preview
-[Click here to open the app](https://yourusername.github.io/todo-list-app/)
+[Click here to open the app](https://githasnain.github.io/todo-list-app/)
 
 ## 📁 Project Structure
 todo-list-app/
